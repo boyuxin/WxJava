@@ -209,9 +209,10 @@ public class WxCpMsgAuditServiceImpl implements WxCpMsgAuditService {
       long mediaData = Finance.NewMediaData();
       ret = Finance.GetMediaData(sdk, indexbuf, sdkfileid, proxy, passwd, timeout, mediaData);
       if (ret != 0) {
-        Finance.FreeMediaData(mediaData);
-        Finance.DestroySdk(sdk);
-        throw new WxErrorException("getmediadata err ret " + ret);
+        return;
+//        Finance.FreeMediaData(mediaData);
+//        Finance.DestroySdk(sdk);
+//        throw new WxErrorException("getmediadata err ret " + ret);
       }
 
       data_len += Finance.GetDataLen(mediaData);

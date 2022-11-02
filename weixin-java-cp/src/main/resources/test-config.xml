@@ -1,0 +1,46 @@
+<xml>
+  <corpId>wwe4e007f7b179f8f3</corpId>
+  <corpSecret>FvNcPXwsiio4yZbb94xsySceHgVRY1aQ4NPk5eUE-f8</corpSecret>
+<!--  <corpSecret>Kk4RM2KrOHpdlrGlkFkfRHj237RBEB9dHSo8g3mNXSQ</corpSecret>-->
+  <agentId>3010046</agentId>
+<!--  <token>企业号应用Token</token>-->
+<!--  <aesKey>企业号应用EncodingAESKey</aesKey>-->
+<!--  <accessToken>可以不填写</accessToken>-->
+<!--  <expiresTime>可以不填写</expiresTime>-->
+<!--  <userId>企业号通讯录里的某个userid</userId>-->
+<!--  <departmentId>企业号通讯录的某个部门id</departmentId>-->
+<!--  <tagId>企业号通讯录里的某个tagid</tagId>-->
+<!--  <oauth2redirectUri>网页授权获取用户信息回调地址</oauth2redirectUri>-->
+<!--  <webhookKey>webhook链接地址的key值</webhookKey>-->
+  <!-- 企业微信会话存档，私钥，windows以及linux环境sdk路径 -->
+  <msgAuditPriKey>-----BEGIN PRIVATE KEY-----
+    MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDahnRO3k5VTz6o
+    Q0WBe5Rxsi3/hosh6RvngKCIlT/YeJT5ox3mX8F0WpSUjku5Zp73Vk+SwBIzP947
+    Mvpz5yahJ+9rFEciKnM7wvI9Tb0i6s7Z/iQsEEO2B47410CzGNt/bdGzn8UCIrU3
+    FtiagqeKccC7FjKdOjNsgZCq6pHgs5vFWpcG4jQVHHd/z7G1QXBFEHaAjOWLBKop
+    9AMeQiaR4GFnpNC3CSojCJcCSp2SgVh6nVgs6nej2G7GNWEfDlQrR3oGzYnrtk5b
+    S+izAeW3HN0OIafA/+7E1g8PJsbxJ/Tl38mt28cjR/7LbIyOglyIvOx6oX5iUCcl
+    M8fCX3XVAgMBAAECggEAJhC1wedHjeS37WeKe/ui6As5qAEvy0Bn8/OcAy68aGDY
+    0oNveenEMRh2OUpwNmOB3WPTiKSchwDhHT7MEdR6Dih+tBBcM79hQ0+6EqOwBp0Q
+    WzjB5EsRAGxgo0gbpRb3ZUMj/D4gezbAilAYexG3TY5zHCPJvUmeG5CWOq+RqapN
+    V6TsyWvwKnwPtyIeO+6QmYkJ/sLO7fJwcPx1d3i0Vb0TsOoBLYSuIzm97yqjarzO
+    09RzGTA6DLlbXFSDmX2XSfkLmgjO2d73LsAIykwhieAQ9mLL1i3Ku+kN05RXpsf1
+    3gW/6nML7JFo2v9cz/nJXem4jgmikzWHyRdW0gSDIQKBgQDvif7yQ7G7f518z8e/
+    AN5R9Ex+a3YmS0H2vEGcWDnMlbJKGWaoiJ8eiqFfwBY4+HY5KHJRGudtxAHh4gJF
+    WmtFWJKoOtHjSWw69YrxQ75pHsYTP3fkvLQG77IQ/RnblcFftr/+NBE2nKYOaOkc
+    mP4Tvf32/nOGn6aqA65ocZaGgwKBgQDpise4iIKZcvT5Lkkg2n2/O49TlFpugNnh
+    GRdB6LKDo+KIXvp6LTTcmGfoTaxaE32K8fAHqVlBjlC30bl6iN71ia8iGQZlGAXh
+    k4SFGzH/x3wKEPSzNTxHDeyy+oAzC8HKsJFmSosYKLArTsZbV9ue6NDA7VSGRcyV
+    YWf0AWqixwKBgB1+CxK+/PIN61EDsB83Nyg2APkLuBdM6sk7MoTSZANpZvMyn24e
+    rCCxht7oIpRPGxc8gJ61xkrAeE7cadUqJcz688uculzWnGnB86Jy6c29iTuzc8qI
+    5U15U54922Iq1Q04zfi5Zmkn7lYV2qW3vIinus4fVA/+NiH2pBGd8p+LAoGBAMaL
+    eafkRkN2e9WsB/eqSOVfGUaRBSCU4qZ/0knyLnHDzj7poEBmVl6EIzJXdoNNtpl9
+    ffbFfmBBQVZFMk5+Ni7A0udGJy2i8r0H0M3ohOVTDpzwNVh1lb1ClUzDsmGzSRms
+    arBwBziOvtbSrcfSNaAvhem+2vEcPgVxPhMvcRzZAoGBALRwQlxUvv0jUv2vghzx
+    WrheIfciU3e64E4UqW/1Ljh6uCBe8sSNbLmTwdvq8HHpDpS/SFu0kHThRH8IFJK1
+    NxXXTbYprxxEsJ+IXP7MMjJ+8baLOIYsgygXLLBKgIu9qVytOPgd9zfeLcO1ubHu
+    v8fMe6plQnGSsjBCHM85WMpN
+    -----END PRIVATE KEY-----
+  </msgAuditPriKey>
+  <msgAuditLibPath>C:\\WorkSpace\\libcrypto-1_1-x64.dll,libssl-1_1-x64.dll,libcurl-x64.dll,WeWorkFinanceSdk.dll,WeWorkFinanceSdk.iml</msgAuditLibPath>
+</xml>
